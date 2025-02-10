@@ -1,2 +1,2 @@
 # Pop-Balls
-Trabalho Professor Phillip Usabilidade Web, mobile e jogos
+Pop Balls Game é um jogo casual desenvolvido para proporcionar diversão e desafios para jogadores.
